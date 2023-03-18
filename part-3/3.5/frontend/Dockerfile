@@ -1,6 +1,6 @@
 FROM alpine
 
-WORKDIR /usr/src/app
+WORKDIR /app
 
 EXPOSE 5000
 
